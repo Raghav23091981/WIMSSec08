@@ -21,7 +21,9 @@ public class Anangram
         		Arrays.sort(strArray1);
 	        	Arrays.sort(strArray2);
         		return Arrays.equals(strArray1, strArray2);
- 	}	
+ 	}
+
+/* Main program for Anagram testing*/
 
     	public static void main(String[] args)
 	{
